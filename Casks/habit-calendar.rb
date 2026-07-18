@@ -1,6 +1,6 @@
 cask "habit-calendar" do
   version "0.1.0"
-  sha256 "ceda433d88c856e41845d3290dbbced9888e42739d7f0012b53317bfaa31094d"
+  sha256 "02990bda226a68727692ccf68470b05a37950d453dcdfd164e274856c92b8796"
 
   url "https://github.com/Trijalkhade/habit-calendar/releases/download/v#{version}/Habit.Calendar_#{version}_universal.dmg"
   name "Habit Calendar"
